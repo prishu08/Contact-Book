@@ -76,13 +76,6 @@ Contact-Book
 
 Then connect the local project to your GitHub repository:
 
-```bash
-git branch -M main
-git remote add origin YOUR_GITHUB_REPOSITORY_URL
-git push -u origin main
-```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the repository URL provided by GitHub.
 
 ## Example
 
@@ -99,7 +92,3 @@ Replace `YOUR_GITHUB_REPOSITORY_URL` with the repository URL provided by GitHub.
 ========================================
 Enter your choice (1-6):
 ```
-
-## Author
-
-Contact-Book Python Project
