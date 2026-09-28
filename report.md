@@ -65,11 +65,9 @@ Example:
 
 ```json
 [
-    {
-        "name": "Rahul",
+         {"name": "Asha",
         "phone": "9876543210",
-        "email": "rahul@example.com"
-    }
+        "email": "asha@example.com"}
 ]
 ```
 
