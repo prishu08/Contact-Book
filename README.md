@@ -1,2 +1,105 @@
 # Contact-Book
-A command-line contact book in Python to add, search, update and delete contacts.
+
+A simple Python command-line Contact-Book project that allows users to manage contacts using a text-based menu.
+
+## Features
+
+- Add a contact
+- View all contacts
+- Search contacts by name or phone
+- Update an existing contact
+- Delete a contact
+- Save contacts automatically in a JSON file
+- Load contacts when the program starts
+- Basic input validation and error handling
+
+## Project Structure
+
+```text
+Contact-Book/
+├── contacts.py
+├── contacts.json
+├── README.md
+└── report.md
+```
+
+## Requirements
+
+- Python 3.x
+- Visual Studio Code (recommended)
+- No external Python libraries are required
+
+## How to Run in VS Code
+
+1. Open VS Code.
+2. Select **File → Open Folder**.
+3. Open the `Contact-Book` folder.
+4. Open the VS Code terminal.
+5. Run:
+
+```bash
+python contacts.py
+```
+
+If `python` does not work on Windows, try:
+
+```bash
+py contacts.py
+```
+
+## Menu
+
+```text
+1. Add Contact
+2. View All Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+```
+
+## GitHub Upload
+
+Initialize Git:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit - Contact Book"
+```
+
+Create a new repository on GitHub named:
+
+```text
+Contact-Book
+```
+
+Then connect the local project to your GitHub repository:
+
+```bash
+git branch -M main
+git remote add origin YOUR_GITHUB_REPOSITORY_URL
+git push -u origin main
+```
+
+Replace `YOUR_GITHUB_REPOSITORY_URL` with the repository URL provided by GitHub.
+
+## Example
+
+```text
+========================================
+           CONTACT-BOOK
+========================================
+1. Add Contact
+2. View All Contacts
+3. Search Contact
+4. Update Contact
+5. Delete Contact
+6. Exit
+========================================
+Enter your choice (1-6):
+```
+
+## Author
+
+Contact-Book Python Project
