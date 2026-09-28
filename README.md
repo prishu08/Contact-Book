@@ -41,12 +41,6 @@ Contact-Book/
 python contacts.py
 ```
 
-If `python` does not work on Windows, try:
-
-```bash
-py contacts.py
-```
-
 ## Menu
 
 ```text
@@ -57,26 +51,6 @@ py contacts.py
 5. Delete Contact
 6. Exit
 ```
-
-## GitHub Upload
-
-Initialize Git:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - Contact Book"
-```
-
-Create a new repository on GitHub named:
-
-```text
-Contact-Book
-```
-
-Then connect the local project to your GitHub repository:
-
-
 ## Example
 
 ```text
