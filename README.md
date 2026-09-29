@@ -26,8 +26,7 @@ Contact-Book/
 ## Requirements
 
 - Python 3.x
-- Visual Studio Code (recommended)
-- No external Python libraries are required
+- Visual Studio Code 
 
 ## How to Run in VS Code
 
@@ -49,7 +48,7 @@ python contacts.py
 3. Search Contact
 4. Update Contact
 5. Delete Contact
-6. Exit
+6. Exit 
 ```
 ## Example
 
@@ -63,6 +62,6 @@ python contacts.py
 4. Update Contact
 5. Delete Contact
 6. Exit
-========================================
+=========================================
 Enter your choice (1-6):
 ```
