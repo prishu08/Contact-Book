@@ -2,7 +2,7 @@
 
 A simple Python command-line Contact-Book project that allows users to manage contacts using a text-based menu.
 
-## Feature
+## Features
 
 - Add a contact
 - View all contacts
